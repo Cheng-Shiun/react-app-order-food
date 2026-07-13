@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "焗烤起司通心粉",
+    "price": "270",
+    "description": "香濃切達起司與煮至恰到好處的通心粉完美融合，表面撒上酥脆麵包粉烘烤，是經典的療癒系美食。",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "瑪格麗特披薩",
+    "price": "390",
+    "description": "經典義式披薩，搭配新鮮莫札瑞拉起司、番茄與羅勒，鋪在薄脆餅皮上。",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "凱薩沙拉",
+    "price": "240",
+    "description": "新鮮蘿蔓生菜拌入凱薩醬，搭配香脆麵包丁與帕瑪森起司薄片。",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "卡邦尼義大利麵",
+    "price": "330",
+    "description": "Q彈義大利麵搭配蛋黃、佩科里諾起司、培根與黑胡椒製成的濃郁奶香醬汁。",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "蔬食漢堡",
+    "price": "300",
+    "description": "多汁的蔬食排搭配全麥漢堡麵包，佐以生菜、番茄及酸甜特製醬汁。",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "香烤雞肉三明治",
+    "price": "330",
+    "description": "嫩烤雞胸肉搭配酪梨、培根、生菜與蜂蜜芥末醬，夾入烘烤麵包中。",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "牛排佐薯條",
+    "price": "540",
+    "description": "依照您的熟度需求烹調鮮嫩牛排，搭配金黃酥脆薯條與香草奶油。",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "綜合壽司拼盤",
+    "price": "480",
+    "description": "精選新鮮壽司捲組合，包含加州捲、辣鮪魚捲及鰻魚酪梨捲。",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "咖哩雞肉飯",
+    "price": "420",
+    "description": "鮮嫩雞肉燉煮於濃郁香氣十足的咖哩醬中，搭配香米一同享用。",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "純素佛陀碗",
+    "price": "360",
+    "description": "營養豐富的一碗料理，包含藜麥、烤時蔬、酪梨，並淋上芝麻醬。",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "西班牙海鮮燉飯",
+    "price": "600",
+    "description": "經典西班牙料理，以番紅花燉飯搭配鮮蝦、淡菜與西班牙香腸。",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "鬆餅塔",
+    "price": "270",
+    "description": "蓬鬆柔軟的鬆餅層層堆疊，淋上楓糖漿並搭配新鮮莓果。",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "味噌拉麵",
+    "price": "390",
+    "description": "暖心味噌湯底拉麵，搭配嫩叉燒、溏心蛋與青蔥。",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "牛肉塔可",
+    "price": "300",
+    "description": "三份柔軟玉米餅包入調味牛肉、新鮮莎莎醬、起司及酸奶油。",
+    "image": "images/beef-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "巧克力布朗尼",
+    "price": "180",
+    "description": "濃郁濕潤的巧克力布朗尼，搭配一球香草冰淇淋並淋上巧克力醬。",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "龍蝦濃湯",
+    "price": "450",
+    "description": "以龍蝦高湯、香料蔬菜及少許白蘭地熬製而成的香濃奶油濃湯。",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "野菇燉飯",
+    "price": "420",
+    "description": "以義大利米慢火燉煮，搭配多種野菇，最後撒上帕瑪森起司。",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "焗烤茄子帕瑪森",
+    "price": "360",
+    "description": "酥炸茄子層層堆疊，搭配番茄醬、融化的莫札瑞拉起司與帕瑪森起司。",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "檸檬起司蛋糕",
+    "price": "210",
+    "description": "綿密濃郁的起司蛋糕帶有清爽檸檬香氣，搭配酥脆餅乾底。",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "鷹嘴豆餅捲",
+    "price": "270",
+    "description": "香酥鷹嘴豆餅包裹於溫熱皮塔餅中，搭配生菜、番茄及芝麻醬。",
+    "image": "images/falafel-wrap.jpg"
+  }
+]
