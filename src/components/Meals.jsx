@@ -6,7 +6,7 @@ import Error from "./UI/Error";
 const requestConfig = {}; // 確保 useFetch 參數為固定的值，否則在 hook 中 useEffect 執行時會導致 {} 會改變而有無限循環
 
 export default function Meals() {
-  const { responseData: loadMeals, error, isLoading } = useFetch("http://localhost:3000/meals", requestConfig, []);
+  const { responseData: loadMeals, error, isLoading } = useFetch("https://react-app-order-food-backend.onrender.com/meals", requestConfig, []);
 
   // console.log(isLoading);
   if (isLoading) {
