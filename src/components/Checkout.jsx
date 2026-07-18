@@ -19,7 +19,7 @@ export default function Checkout() {
   const cartCxt = useContext(CartContext);
   const userProgressCxt = useContext(UserProgressContext);
 
-  const { responseData, error, sendRequest, clearResponseData } = useFetch("http://localhost:3000/orders", requestConfig);
+  const { responseData, error, sendRequest, clearResponseData } = useFetch("https://react-app-order-food-backend.onrender.com/orders", requestConfig);
 
   const cartTotal = cartCxt.items.reduce((totalPrice, item) => {
     return totalPrice + item.price * item.quantity;
